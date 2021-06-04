@@ -10,7 +10,7 @@ A password manager is a software application designed to store and manage online
 **Are password managers safe?**
 Password managers have been hacked, Even LastPass( popular password manager) suffered a data breach in 2015. So, I say not sure.
 
-**What you need your own cloud-based Password Manager/ these type of password manager**<br>
+**Why you need your own cloud-based Password Manager/ these type of password manager**<br>
 Because they are more secure. Let's take an example of this kind of password manager. 
 <br>
 Database we used is : Firebase
