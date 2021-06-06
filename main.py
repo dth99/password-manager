@@ -3,13 +3,13 @@ import stdiomask
 
 # paste/replace your own firebase project config details here
 firebaseConfig = {
-    'apiKey': "AIzaSyAiEoCNVnaJ8SXxY0Bh22qr-ntuU4jTVb4",
-    'authDomain': "passwdmanager-24db5.firebaseapp.com",
-    'databaseURL': "https://passwdmanager-24db5-default-rtdb.firebaseio.com",
+    'apiKey': "AIzaVnaJ8SXxY0dfddffdffg22qr-ntuU4jTVb4",
+    'authDomain': "passwdmanager-241db5.firebaseapp.com",
+    'databaseURL': "https://passwdmanager-244db5-default-rtdb.firebaseio.com",
     'projectId': "passwdmanager-24db5",
-    'storageBucket': "passwdmanager-24db5.appspot.com",
+    'storageBucket': "passwdmanager-241db5.appspot.com",
     'messagingSenderId': "685312661793",
-    'appId': "1:685312661793:web:dba0b87e5f405c10384660"
+    'appId': "1:685312df661793:web:dbfdadfa0b87e5f405c10384660"
   };
 
 firebase = pyrebase.initialize_app(firebaseConfig)
