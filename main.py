@@ -12,6 +12,7 @@ firebaseConfig = {
     'appId': "1:685312df661793:web:dbfdadfa0b87e5f405c10384660"
   };
 
+# initializing firebase 
 firebase = pyrebase.initialize_app(firebaseConfig)
 
 auth= firebase.auth()
@@ -83,6 +84,7 @@ def menu():
             continue
 
 
+#input
 c=0
 while c==0:
     email=input("Email: ")
