@@ -31,3 +31,12 @@ python3 -m pip install -r requirements.txt
 ```
 python3 main.py
 ```
+
+### ScreenShots
+![dth99](https://github.com/dth99/password-manager/blob/main/images/1.png)
+![dth99](https://github.com/dth99/password-manager/blob/main/images/2.png)
+![dth99](https://github.com/dth99/password-manager/blob/main/images/3.png)
+![dth99](https://github.com/dth99/password-manager/blob/main/images/4.png)
+![dth99](https://github.com/dth99/password-manager/blob/main/images/5.png)
+![dth99](https://github.com/dth99/password-manager/blob/main/images/6.png)
+
